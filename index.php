@@ -1,0 +1,1 @@
+<?php  echo 'test my cart index page'; ?>
